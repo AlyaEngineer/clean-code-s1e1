@@ -85,7 +85,7 @@
   margin: 0;
   text-transform: uppercase;
 }
-.form__input_task,
+.form__input-task,
 .list__input-task[type="text"] {
   margin: 0;
   font-size: 18px;
